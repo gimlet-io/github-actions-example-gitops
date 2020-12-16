@@ -28,7 +28,7 @@ spec:
         - name: github-actions-example
           securityContext:
             {}
-          image: "ghcr.io/gimlet-io/github-actions-example:c08363b51ef14d613056142a3e9866705e396562"
+          image: "ghcr.io/gimlet-io/github-actions-example:65534eaa7bbba1abf60bd7e264af0403d317bc9d"
           imagePullPolicy: 
           envFrom:
           ports:
